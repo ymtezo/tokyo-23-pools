@@ -1,0 +1,3224 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.707764,
+     35.635323
+    ]
+   },
+   "properties": {
+    "name": "区民センター屋外プール",
+    "ward": "目黒区",
+    "operator": null,
+    "period": "7月1日〜9月10日",
+    "hours": "10:00〜20:00",
+    "fee": "一般 200円（2時間）",
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/sports_koen_yoka/sports/sports_shisetsuriyou/shisetsubetu/pool_/center_okugai_pool_ippankokai.html",
+    "close_max": "20:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都目黒区目黒二丁目４番３６号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.707764,
+     35.635323
+    ]
+   },
+   "properties": {
+    "name": "区民センター屋内プール",
+    "ward": "目黒区",
+    "operator": null,
+    "period": "通年",
+    "hours": "10:00〜20:00",
+    "fee": "一般 200円（2時間）",
+    "url": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/sports_shisetsu/center_gym/center_ippan/indoorpool.html",
+    "close_max": "20:00",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都目黒区目黒二丁目４番３６号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6801043,
+     35.6580718
+    ]
+   },
+   "properties": {
+    "name": "駒場体育館屋内プール",
+    "ward": "目黒区",
+    "operator": null,
+    "period": "通年",
+    "hours": "10:00〜22:00",
+    "fee": "一般 400円（2時間）",
+    "url": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/sports_shisetsu/komaba_gym/komaba_ippan/A-56.html",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/3156294563",
+    "geo_name": "目黒区立駒場体育館",
+    "geo_score": 86.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.687843,
+     35.6339361
+    ]
+   },
+   "properties": {
+    "name": "五本木小学校屋内プール",
+    "ward": "目黒区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "9:00〜22:00",
+    "fee": "一般 400円（2時間）",
+    "url": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/sports_shisetsu/chuo_pool/",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/116429944",
+    "geo_name": "目黒区立五本木小学校",
+    "geo_score": 102.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6908512,
+     35.6194604
+    ]
+   },
+   "properties": {
+    "name": "碑小学校屋内プール",
+    "ward": "目黒区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "9:00〜22:00",
+    "fee": "一般 300円（2時間）",
+    "url": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/sports_shisetsu/nanbu_pool/",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/258734705",
+    "geo_name": "目黒区立碑小学校",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6738406,
+     35.6101769
+    ]
+   },
+   "properties": {
+    "name": "緑ヶ丘小学校屋内プール",
+    "ward": "目黒区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "9:00〜22:00",
+    "fee": "一般 400円（2時間）",
+    "url": "https://www.city.meguro.tokyo.jp/smph/shisetsu/shisetsu/sports_shisetsu/seibu_pool/index.html",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/159029483",
+    "geo_name": "目黒区立緑ヶ丘小学校",
+    "geo_score": 87.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7495235,
+     35.6294294
+    ]
+   },
+   "properties": {
+    "name": "港南小学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "通年（休業日：月〜水、年末年始）",
+    "hours": "木・金 17:00〜20:00、 土・日（第1開放10:00〜12:00、第2開放13:00〜15:00、 第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "http://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/kounan_pool.html",
+    "close_max": "20:00",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "osm:way/378391975",
+    "geo_name": "港区立 港南小学校",
+    "geo_score": 87.5,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7299959,
+     35.6495976
+    ]
+   },
+   "properties": {
+    "name": "本村小学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "通年（休業日：月、年末年始）",
+    "hours": "月・水 16:30〜18:30（団体貸切の利用のみ)、木曜・金曜 17:00〜20:00、 土・日（第1開放10:00〜12:00、第2開放13:00〜15:00、 第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "https://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/honmura_pool.html",
+    "close_max": "20:00",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "osm:way/219360105",
+    "geo_name": "港区立 本村小学校",
+    "geo_score": 87.5,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7310868,
+     35.6691706
+    ]
+   },
+   "properties": {
+    "name": "赤坂小学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "通年（休業日：月、年末年始）",
+    "hours": "火・水 18:30〜20:30（団体貸切の利用のみ)、木曜・金曜 18:30〜20:30、 土・日（第1開放10:00〜12:00、第2開放13:00〜15:00、 第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "http://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/akasaka_pool.html",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "osm:way/95936012",
+    "geo_name": "港区立 赤坂小学校",
+    "geo_score": 87.5,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7504278,
+     35.6616324
+    ]
+   },
+   "properties": {
+    "name": "御成門中学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "通年（休業日：月、年末年始）",
+    "hours": "火〜金 18:30〜20:30、土・日（第1開放10:00〜12:00、第2開放13:00〜15:00、 第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "http://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/onari_pool.html",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "osm:way/622835366",
+    "geo_name": "港区立 御成門中学校",
+    "geo_score": 88.3,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7343812,
+     35.6407607
+    ]
+   },
+   "properties": {
+    "name": "高松中学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "通年（休業日：月〜水、年末年始）",
+    "hours": "木曜・金曜 18:30〜20:30、土・日（第1開放10:00〜12:00、 第2開放13:00〜15:00、第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "http://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/takamatsu_pool.html",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "osm:way/157525648",
+    "geo_name": "港区立 高松中学校",
+    "geo_score": 87.5,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7206477,
+     35.6567995
+    ]
+   },
+   "properties": {
+    "name": "高陵中学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "通年（休業日：月〜水、年末年始）",
+    "hours": "木曜・金曜 18:30〜20:30、 土・日（第1開放10:00〜12:00、第2開放13:00〜15:00、 第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "http://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/kouryou_pool.html",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "osm:way/393645493",
+    "geo_name": "港区立 高陵中学校",
+    "geo_score": 87.5,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7774,
+     35.6338
+    ]
+   },
+   "properties": {
+    "name": "お台場学園港陽中学校屋内プール",
+    "ward": "港区",
+    "operator": null,
+    "period": "木・金（7月21日〜8月31日）、土・日（年末年始を除く）",
+    "hours": "木・金 13:30〜15:30、15:45〜17:45 土・日（第1開放10:00〜12:00、第2開放13:00〜15:00、 第3開放15:30〜17:30、第4開放18:00〜20:00）",
+    "fee": "一般 500円（2時間）",
+    "url": "http://www.city.minato.tokyo.jp/sports/kodomo/sports/sports/kouhou_pool.html",
+    "close_max": "20:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": true,
+    "session_based": true,
+    "geo_src": "verified:osm:way/149126768",
+    "geo_name": "お台場学園",
+    "geo_score": 95.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.763641,
+     35.708309
+    ]
+   },
+   "properties": {
+    "name": "文京区総合体育館",
+    "ward": "文京区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "9:45～11:45（貸切） 12:00～22:30（個人使用）",
+    "fee": "一般 550円（2時間）",
+    "url": "http://www.city.bunkyo.lg.jp/bunka/sports/shisetsu/sougoutaiikukan.html",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都文京区本郷七丁目１番２号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 8:30-22:30（窓口受付〜21:00）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.736461,
+     35.7205334
+    ]
+   },
+   "properties": {
+    "name": "文京区 スポーツセンター",
+    "ward": "文京区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "9:00~13:30, 15:45~22:30（個人使用）13:30~15:30（貸切）",
+    "fee": "一般 550円（2時間）",
+    "url": "http://www.city.bunkyo.lg.jp/bunka/sports/shisetsu/sougoutaiikukan.html",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/139110249",
+    "geo_name": "文京スポーツセンター",
+    "geo_score": 70.5,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630052,
+     35.7639753
+    ]
+   },
+   "properties": {
+    "name": "光が丘体育館温水プール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "通年（休業日：第2月曜日）",
+    "hours": "9:00～21:30",
+    "fee": "一般 200円（1時間）",
+    "url": "http://www.hikarigaoka-sp.com/?page_id=29",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/57404791",
+    "geo_name": "練馬区立光が丘体育館",
+    "geo_score": 87.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661819,
+     35.759094
+    ]
+   },
+   "properties": {
+    "name": "平和台体育館温水プール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2月曜日、年末年始、3月12日～14日まで）",
+    "hours": "9:00～21:15",
+    "fee": "一般 200円（1時間）",
+    "url": "https://shisetsu-tds.jp/tokyo-nerima-heiwadaitaiikukan/",
+    "close_max": "21:15",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都練馬区平和台二丁目１２番５号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-21:15、休 毎月第2月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5873504,
+     35.7226018
+    ]
+   },
+   "properties": {
+    "name": "上石神井体育館温水プール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2月曜日、年末年始）",
+    "hours": "9:00～21:30",
+    "fee": "一般 200円（1時間）",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koen/taiku/kamishakujii.html",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/859780237",
+    "geo_name": "練馬区立上石神井体育館",
+    "geo_score": 102.7,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5841898,
+     35.765391
+    ]
+   },
+   "properties": {
+    "name": "大泉学園町体育館温水プール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2月曜日、年末年始）",
+    "hours": "9:00～21:30",
+    "fee": "一般 200円（1時間）",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koen/taiku/oizumigakuen.html",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:node/6296875366",
+    "geo_name": "練馬区立 大泉学園町体育館",
+    "geo_score": 88.3,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6063683,
+     35.7572927
+    ]
+   },
+   "properties": {
+    "name": "三原台温水プール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2月曜日、年末年始）",
+    "hours": "9:00～21:30",
+    "fee": "一般 200円（1時間）",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koen/pool/miharadai.html",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/6290944195",
+    "geo_name": "三原台温水プール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5997361,
+     35.7372446
+    ]
+   },
+   "properties": {
+    "name": "石神井プール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "2023年7月1日から9月10日",
+    "hours": "9:00～19:00",
+    "fee": "一般 200円（1時間）",
+    "url": "https://www.nerima-miharadai.com/%E6%96%BD%E8%A8%AD%E3%81%94%E6%A1%88%E5%86%85/%E7%9F%B3%E7%A5%9E%E4%BA%95%E3%83%97%E3%83%BC%E3%83%AB/",
+    "close_max": "19:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/6401717312",
+    "geo_name": "石神井プール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648701,
+     35.7292219
+    ]
+   },
+   "properties": {
+    "name": "中村南スポーツ交流センタープール",
+    "ward": "練馬区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2月曜日、年末年始）",
+    "hours": "9:00～21:30",
+    "fee": "一般 200円（1時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-nerima-nakamuraminami/",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/79516438",
+    "geo_name": "中村南スポーツ交流センター",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660797,
+     35.709805
+    ]
+   },
+   "properties": {
+    "name": "中野中学校温水プール",
+    "ward": "中野区",
+    "operator": null,
+    "period": "通年（休業日：毎月第1,3月曜日）",
+    "hours": "9：00～21：00",
+    "fee": "一般 130円（1時間）250円（2時間）",
+    "url": "http://www.city.tokyo-nakano.lg.jp/dept/403200/d005752.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都中野区中野四丁目１２番３号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: おおむね平日19-21時中心、開放日は区の予定表を確認"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6713242,
+     35.6923456
+    ]
+   },
+   "properties": {
+    "name": "第二中学校温水プール",
+    "ward": "中野区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2,4月曜日）",
+    "hours": "9：00～21：00",
+    "fee": "一般 130円（1時間）250円（2時間）",
+    "url": "http://www.city.tokyo-nakano.lg.jp/dept/403200/d007237.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/44356815",
+    "geo_name": "中野区立第二中学校",
+    "geo_score": 101.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636032,
+     35.722069
+    ]
+   },
+   "properties": {
+    "name": "鷺宮体育館温水プール",
+    "ward": "中野区",
+    "operator": null,
+    "period": "通年（休業日：毎月第4月曜日、年末年始）",
+    "hours": "月〜土：9:00〜22:45、日・休日 9:00〜21:45",
+    "fee": "一般 300円（1時間）600円（2時間）",
+    "url": "https://www.saginomiya-sports-comm.net/",
+    "close_max": "22:45",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都中野区白鷺三丁目１番１３号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-22:30（日祝〜21:30）、休 第4月曜・年末年始"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.715485,
+     35.734627
+    ]
+   },
+   "properties": {
+    "name": "豊島区池袋スポーツセンター",
+    "ward": "豊島区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2月曜日、年末年始）",
+    "hours": "8：30～22：00",
+    "fee": "400円（2時間）",
+    "url": "http://www.ikespo.jp/index.php",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都豊島区上池袋二丁目５番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 月-土8:30-22:00 / 日8:30-21:00、休 第2月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.733261,
+     35.73423
+    ]
+   },
+   "properties": {
+    "name": "豊島区立巣鴨体育館",
+    "ward": "豊島区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "10：00～20：30",
+    "fee": "400円（2時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-toshima-sugamo-taiikukan/",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都豊島区巣鴨三丁目８番７号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.683182,
+     35.724266
+    ]
+   },
+   "properties": {
+    "name": "豊島区立南長崎スポーツセンター",
+    "ward": "豊島区",
+    "operator": null,
+    "period": "通年（休業日：毎月最終週月曜日、年末年始）",
+    "hours": "9：00～21：30",
+    "fee": "400円（2時間）",
+    "url": "https://information.konamisportsclub.jp/trust/minaminagasaki-sp/pricing/",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都豊島区南長崎四丁目１３番５号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-21:30（最終入場20:45・最終利用21:15）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.713486,
+     35.719677
+    ]
+   },
+   "properties": {
+    "name": "豊島区立雑司が谷体育館",
+    "ward": "豊島区",
+    "operator": null,
+    "period": "通年（休業日：毎月最終週月曜日、年末年始）",
+    "hours": "月・水・金・土・日10：00～20：30、木3:00〜18:00 （火曜日は一般公開なし）",
+    "fee": "400円（2時間）",
+    "url": "https://information.konamisportsclub.jp/trust/zoshigaya/",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都豊島区雑司が谷三丁目１番７号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: プール個人公開 月水金土日10-20:30 / 火14-20:30 / 木13-18:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7893692,
+     35.6878387
+    ]
+   },
+   "properties": {
+    "name": "総合スポーツセンター",
+    "ward": "中央区",
+    "operator": null,
+    "period": "通年（休業日：第3週月曜日、年末年始）",
+    "hours": "7：00～21：30",
+    "fee": "500円（2時間）",
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/supotu/onsuipuru/suposenonsuipu-ru.html",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/157214425",
+    "geo_name": "中央区総合スポーツセンター",
+    "geo_score": 105.4,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.783178,
+     35.6652119
+    ]
+   },
+   "properties": {
+    "name": "月島スポーツプラザ",
+    "ward": "中央区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "7：00～21：30",
+    "fee": "500円（2時間）",
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/supotu/onsuipuru/tukisimasupo-tupurazaonsuipu-ru.html",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "月島スポーツプラザ, 西仲通り, 月島一丁目, 月島, 中央区, 東京都, 104-0052, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7814031,
+     35.6847509
+    ]
+   },
+   "properties": {
+    "name": "日本橋小学校温水プール",
+    "ward": "中央区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "平日18:00〜21:00、土13:00〜21:00、日・休日9:00〜21:00",
+    "fee": "350円（2時間）",
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/supotu/onsuipuru/gakkouonnsuipu-ru.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:node/9931582706",
+    "geo_name": "中央区立 日本橋小学校温水プール",
+    "geo_score": 87.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.778772,
+     35.6721228
+    ]
+   },
+   "properties": {
+    "name": "中央小学校温水プール",
+    "ward": "中央区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "平日18:00〜21:00、土13:00〜21:00、日・休日9:00〜21:00",
+    "fee": "350円（2時間）",
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/supotu/onsuipuru/gakkouonnsuipu-ru.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/620668532",
+    "geo_name": "中央区立中央小学校",
+    "geo_score": 86.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7857358,
+     35.6587144
+    ]
+   },
+   "properties": {
+    "name": "月島第三小学校温水プール",
+    "ward": "中央区",
+    "operator": null,
+    "period": "通年（休業日：年末年始）",
+    "hours": "平日18:00〜21:00、土13:00〜21:00、日・休日9:00〜21:00",
+    "fee": "350円（2時間）",
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/supotu/onsuipuru/gakkouonnsuipu-ru.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/617841976",
+    "geo_name": "中央区立月島第三小学校",
+    "geo_score": 87.7,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7698588,
+     35.7012034
+    ]
+   },
+   "properties": {
+    "name": "昌平童夢館",
+    "ward": "千代田区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2日曜日、年末年始）",
+    "hours": "平日18:00〜21:00、土・日・祝10:00〜21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/pool.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "昌平童夢館, 7, 外神田三丁目, 外神田, 千代田区, 東京都, 101-0021, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.768494,
+     35.693047
+    ]
+   },
+   "properties": {
+    "name": "神田さくら館",
+    "ward": "千代田区",
+    "operator": null,
+    "period": "通年（休業日：毎月第3日曜日、年末年始）",
+    "hours": "平日18:00〜21:00、土・日・祝10:00〜21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/pool.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都千代田区神田司町二丁目１６番",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 平日18:00-21:00・学校休業日10:00-21:00、休 第3日曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7397664,
+     35.6853344
+    ]
+   },
+   "properties": {
+    "name": "麹町小学校",
+    "ward": "千代田区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2日曜日、年末年始）",
+    "hours": "平日18:00〜21:00、土・日・祝10:00〜21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/pool.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/179565779",
+    "geo_name": "千代田区立麹町小学校",
+    "geo_score": 85.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.745629,
+     35.697167
+    ]
+   },
+   "properties": {
+    "name": "富士見みらい館",
+    "ward": "千代田区",
+    "operator": null,
+    "period": "通年（休業日：毎月第2日曜日、年末年始）",
+    "hours": "6月中旬〜9月中旬の平日18:00〜21:00、 6月中旬〜9月中旬の土・日・祝10:00〜21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/pool.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "富士見みらい館, 早稲田通り, 富士見一丁目, 富士見, 千代田区, 東京都, 102-0071, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7788067,
+     35.6992879
+    ]
+   },
+   "properties": {
+    "name": "ちよだパークサイドプラザ",
+    "ward": "千代田区",
+    "operator": null,
+    "period": "通年（休業日：毎月第3日曜日、年末年始）",
+    "hours": "【4～9月】月～土（火曜日を除く）：10:00～21:00、 火：10:00〜17:00、日・祝日：10:00〜17:00 火：13:00〜17:00、日・祝日：午後13:00〜17:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.chiyoda.lg.jp/koho/bunka/sports/pool.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "ちよだパークサイドプラザ区民図書室, 神田和泉町, 千代田区, 東京都, 102-0000, 日本",
+    "geo_score": 84.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.782059,
+     35.699459
+    ]
+   },
+   "properties": {
+    "name": "柳北スポーツプラザ",
+    "ward": "台東区",
+    "operator": null,
+    "period": "2023年6月9日〜2023年9月30日",
+    "hours": "平日13:00〜21:00、土・日・祝9:00〜21:00",
+    "fee": "250円（1時間）",
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/suportsisetu/ryuuhokusport.html",
+    "close_max": "21:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都台東区浅草橋五丁目１番８号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7833047,
+     35.7136087
+    ]
+   },
+   "properties": {
+    "name": "清島温水プール",
+    "ward": "台東区",
+    "operator": null,
+    "period": "通年（第1、3、5週の月曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "500円（2時間）",
+    "url": "http://www.taito-shakyo.com/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/9288289778",
+    "geo_name": "清島温水プール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8045815,
+     35.7175361
+    ]
+   },
+   "properties": {
+    "name": "台東リバーサイドスポーツセンター",
+    "ward": "台東区",
+    "operator": null,
+    "period": "2023年7月10日〜2023年9月3日",
+    "hours": "9:00〜17:00",
+    "fee": "200円（1時間）",
+    "url": "http://www.taitocity.net/zaidan/riverside/",
+    "close_max": "17:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/2987171720",
+    "geo_name": "台東リバーサイド スポーツセンター",
+    "geo_score": 105.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8026804,
+     35.7193994
+    ]
+   },
+   "properties": {
+    "name": "都立浅草高校温水プール",
+    "ward": "台東区",
+    "operator": null,
+    "period": "2023年5年12月2日～2024年年3月31日（予定）",
+    "hours": "11:30〜21:00",
+    "fee": "250円（1時間）",
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/suportsisetu/asakusakoukouonsuipo.html",
+    "close_max": "21:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "nominatim-addr",
+    "geo_name": "東京都立浅草高等学校, 吉野通り, 今戸一丁目, 今戸, 台東区, 東京都, 111-0024, 日本",
+    "geo_score": 70.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61441,
+     35.628792
+    ]
+   },
+   "properties": {
+    "name": "総合運動場温水プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "通年（休館日：毎月第3月曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "260円（1時間）",
+    "url": "https://www.se-sports.or.jp/facility/sougou-p/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都世田谷区大蔵四丁目６番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-21:00、休 第3月曜(7月は第2・8月除く)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618393,
+     35.65802
+    ]
+   },
+   "properties": {
+    "name": "千歳温水プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "通年（休館日：毎月第1月曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "260円（1時間）",
+    "url": "https://www.se-sports.or.jp/facility/chitose/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都世田谷区船橋七丁目９番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-21:00、休 第1月曜(8月・1月・2月除く)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6688974,
+     35.6505172
+    ]
+   },
+   "properties": {
+    "name": "太子堂中学校温水プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "240円（1時間）",
+    "url": "https://www.se-sports.or.jp/facility/taisidou/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/168547452",
+    "geo_name": "世田谷区立太子堂中学校",
+    "geo_score": 85.9,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6433373,
+     35.6167788
+    ]
+   },
+   "properties": {
+    "name": "玉川中学校温水プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "240円（1時間）",
+    "url": "https://www.se-sports.or.jp/facility/tamagawa/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/639373811",
+    "geo_name": "世田谷区立玉川中学校",
+    "geo_score": 85.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6009931,
+     35.6716086
+    ]
+   },
+   "properties": {
+    "name": "烏山中学校温水プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "240円（1時間）",
+    "url": "https://www.se-sports.or.jp/facility/karasuyama/price",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/93355935",
+    "geo_name": "世田谷区立烏山中学校",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6525702,
+     35.6594027
+    ]
+   },
+   "properties": {
+    "name": "梅丘中学校温水プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "240円（1時間）",
+    "url": "https://www.se-sports.or.jp/facility/umegaoka/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:node/4168566358",
+    "geo_name": "梅丘中学校温水プール",
+    "geo_score": 115.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614807,
+     35.630001
+    ]
+   },
+   "properties": {
+    "name": "大蔵第二運動場屋外プール",
+    "ward": "世田谷区",
+    "operator": null,
+    "period": "日中( 9 :00～17:00)：2023年7月15日～2023年8月31日",
+    "hours": "平日9:00～17:00、金9:00～21:00、土日祝9:00～21:00",
+    "fee": "1180円（1日券）",
+    "url": "https://www.se-sports.or.jp/facility/okura/pool",
+    "close_max": "21:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都世田谷区大蔵四丁目７番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 流水プール 9:00-17:00（夏季のみ）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8306,
+     35.7164
+    ]
+   },
+   "properties": {
+    "name": "隅田スポーツ健康センター（墨田区の全天候型室内プール）",
+    "ward": "墨田区",
+    "operator": null,
+    "period": "通年（休館日：水、年末年始）",
+    "hours": "10:00〜17:30",
+    "fee": "440円（2時間）",
+    "url": "https://ksumispo.com/info.html",
+    "close_max": "17:30",
+    "cat": "early",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "verified:osm:node/2285337264",
+    "geo_name": "すみだスポーツ健康センター",
+    "geo_score": 95.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8172098,
+     35.6995253
+    ]
+   },
+   "properties": {
+    "name": "墨田区総合体育館",
+    "ward": "墨田区",
+    "operator": null,
+    "period": "通年（休館日：第3月曜日、年末年始）",
+    "hours": "9:00〜22:30",
+    "fee": "550円（2時間）",
+    "url": "http://www.sumidacity-gym.com/facility/1f.php#floor-1f-01",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/154824059",
+    "geo_name": "墨田区総合体育館",
+    "geo_score": 120.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.796173,
+     35.698643
+    ]
+   },
+   "properties": {
+    "name": "両国屋内プール",
+    "ward": "墨田区",
+    "operator": null,
+    "period": "通年（休館日：火、年末年始）",
+    "hours": "平日・土9:00〜22:00、日・祝9:00〜21:00",
+    "fee": "410円（2時間）",
+    "url": "https://information.konamisportsclub.jp/trust/ryogoku/",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都墨田区横網一丁目８番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6165991,
+     35.6835321
+    ]
+   },
+   "properties": {
+    "name": "高井戸温水プール",
+    "ward": "杉並区",
+    "operator": null,
+    "period": "通年（休館日：第3月曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "250円（1時間）",
+    "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007046.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/4863210797",
+    "geo_name": "高井戸温水プール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601929,
+     35.723862
+    ]
+   },
+   "properties": {
+    "name": "上井草スポーツセンター",
+    "ward": "杉並区",
+    "operator": null,
+    "period": "通年（休館日：第3木曜日、年末年始）",
+    "hours": "月～土9:00～22:20、日・祝9:00～20:50 （2023年7月17日〜8月31日は午前7時から開場）",
+    "fee": "250円（1時間）",
+    "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007048.html",
+    "close_max": "22:20",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都杉並区上井草三丁目３４番",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 月-土9:00-22:20 / 日祝9:00-20:50"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6106668,
+     35.6969321
+    ]
+   },
+   "properties": {
+    "name": "大宮前体育館プール",
+    "ward": "杉並区",
+    "operator": null,
+    "period": "通年（休館日：第3火曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "250円（1時間）",
+    "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007050.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/105463022",
+    "geo_name": "大宮前体育館",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6574719,
+     35.6973217
+    ]
+   },
+   "properties": {
+    "name": "杉並第十小学校温水プール",
+    "ward": "杉並区",
+    "operator": null,
+    "period": "通年（休館日：第1火曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "250円（1時間）",
+    "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007045.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:node/2193898325",
+    "geo_name": "杉並第十小学校温水プール",
+    "geo_score": 105.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641155,
+     35.68179
+    ]
+   },
+   "properties": {
+    "name": "和田堀公園プール",
+    "ward": "杉並区",
+    "operator": null,
+    "period": "2023年7月1日～9月10日",
+    "hours": "9:00〜18:00",
+    "fee": "500円（2時間）",
+    "url": "http://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007049.html",
+    "close_max": "18:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/12313875562",
+    "geo_name": "和田堀公園プール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7054346,
+     35.7069999
+    ]
+   },
+   "properties": {
+    "name": "新宿スポーツセンター",
+    "ward": "新宿区",
+    "operator": null,
+    "period": "通年（休館日：第4月曜日、年末年始）",
+    "hours": "9:00〜21:50",
+    "fee": "400円（2時間）",
+    "url": "https://www.shinjuku-sportscenter.jp/facilities/pool.html",
+    "close_max": "21:50",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "新宿区立新宿スポーツセンター, 1, 大久保三丁目, 大久保, 新宿区, 東京都, 169-0072, 日本",
+    "geo_score": 84.3,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7080835,
+     35.7050261
+    ]
+   },
+   "properties": {
+    "name": "新宿コズミックセンター",
+    "ward": "新宿区",
+    "operator": null,
+    "period": "通年（休館日：第2月曜日、年末年始）",
+    "hours": "9:00〜21:45",
+    "fee": "400円（2時間）",
+    "url": "https://www.regasu-shinjuku.or.jp/?p=1673",
+    "close_max": "21:45",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/94518250",
+    "geo_name": "新宿コズミックセンター",
+    "geo_score": 120.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.703857,
+     35.649837
+    ]
+   },
+   "properties": {
+    "name": "代官山スポーツプラザ",
+    "ward": "渋谷区",
+    "operator": null,
+    "period": "通年（休館日：第2・4月曜日、年末年始）",
+    "hours": "平日7:00〜21:00、土日祝9:00〜21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/sports-shisetsu/sports-center/sp8_daikanyama.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都渋谷区代官山町１７番９号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式(2025-07): 9-21時（平日は7時開場）、休 第2・4月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.709381,
+     35.650887
+    ]
+   },
+   "properties": {
+    "name": "ひがし健康プラザ",
+    "ward": "渋谷区",
+    "operator": null,
+    "period": "通年（休館日：第1・3火曜日、年末年始）",
+    "hours": "9:00〜21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/sports-shisetsu/sports-center/higashi_plaza_sports.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都渋谷区東三丁目１４番１３号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-21:00（最終入場20:00・退水20:45）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6735,
+     35.6806
+    ]
+   },
+   "properties": {
+    "name": "中幡中学校温水プール",
+    "ward": "渋谷区",
+    "operator": null,
+    "period": "通年（休館日：毎週月曜日、年末年始）",
+    "hours": "【学校が利用する日】 13:30～21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/sports-shisetsu/sports-center/sp7_nakahata.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "verified:osm:way/45178720",
+    "geo_name": "中幡小学校",
+    "geo_score": 95.0,
+    "name_official": "中幡小学校温水プール",
+    "official_note": "公式(2025-07): 学校利用日13:30-21 / 休校日9-21（入館20時まで）、火曜は貸切のみ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6777447,
+     35.6668365
+    ]
+   },
+   "properties": {
+    "name": "上原中学校温水プール",
+    "ward": "渋谷区",
+    "operator": null,
+    "period": "通年（休館日：毎週月曜日、年末年始）",
+    "hours": "【火～金の学校使用のない日及び土、祝日、学校休業期間 9:00～21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/sports-shisetsu/sports-center/sp9_uehara.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/28137693",
+    "geo_name": "渋谷区立上原中学校",
+    "geo_score": 101.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6821095,
+     35.6858865
+    ]
+   },
+   "properties": {
+    "name": "渋谷本町学園温水プール",
+    "ward": "渋谷区",
+    "operator": null,
+    "period": "通年（休館日：毎週火曜日、年末年始）",
+    "hours": "【学校が利用する平日】 16:00～21:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/sports-shisetsu/sports-center/sp11_honmachi.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/115482737",
+    "geo_name": "渋谷区立 渋谷本町学園",
+    "geo_score": 87.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7106899,
+     35.6121668
+    ]
+   },
+   "properties": {
+    "name": "任原文化センター温水プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "通年（休館日：毎月第4月曜日、年末年始、5月・9月）",
+    "hours": "9:30〜21:00",
+    "fee": "350円（2時間）",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-pool/hpg000012789.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "荏原文化センター, 中延一丁目, 中延, 品川区, 東京都, 142-0054, 日本",
+    "geo_score": 95,
+    "name_official": "荏原文化センター温水プール（記事表記: 任原）",
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7175654,
+     35.6156632
+    ]
+   },
+   "properties": {
+    "name": "戸越台中学校温水プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "通年（休館日：毎月第二月曜日、年末年始）",
+    "hours": "9:30〜21:00",
+    "fee": "350円（2時間）",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-pool/hpg000019375.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/106911684",
+    "geo_name": "品川区立 戸越台中学校",
+    "geo_score": 87.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7513926,
+     35.6011074
+    ]
+   },
+   "properties": {
+    "name": "八潮学園温水プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:30〜21:00",
+    "fee": "350円（2時間）",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-pool/hpg000012791.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:node/10957258258",
+    "geo_name": "八潮学園温水プール",
+    "geo_score": 115.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7382497,
+     35.6176151
+    ]
+   },
+   "properties": {
+    "name": "品川学園温水プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:30〜21:00",
+    "fee": "350円（2時間）",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-pool/hpg000013817.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/93175953",
+    "geo_name": "品川区立 品川学園",
+    "geo_score": 85.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7255247,
+     35.6072657
+    ]
+   },
+   "properties": {
+    "name": "豊葉の杜学園温水プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "通年（休館日：2023年2月5日〜2月22日、年末年始）",
+    "hours": "9:30〜21:00",
+    "fee": "350円（2時間）",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-pool/hpg000019371.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:way/169886213",
+    "geo_name": "品川区立豊葉の杜学園",
+    "geo_score": 87.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7283,
+     35.6243
+    ]
+   },
+   "properties": {
+    "name": "日の学園温水プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "通年（休館日：毎月第3月曜日、年末年始）",
+    "hours": "9:30〜20:50",
+    "fee": "350円（2時間）",
+    "url": "http://www.ssa-or.biz/shisetsu/hinopool/1000384.html",
+    "close_max": "20:50",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "verified:osm:way/91578251",
+    "geo_name": "日野学園",
+    "geo_score": 95.0,
+    "name_official": "品川区立日野学園温水プール",
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7388436,
+     35.5922567
+    ]
+   },
+   "properties": {
+    "name": "品川区・区民公園屋外プール",
+    "ward": "品川区",
+    "operator": null,
+    "period": "2022年7月5日～9月11日",
+    "hours": "9:30〜20:00",
+    "fee": "400円（2時間）",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kankyo/kankyo-park/kankyo-park-shitsumon/hpg000001173.html",
+    "close_max": "20:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim-addr",
+    "geo_name": "しながわ区民公園, 品川区, 東京都, 日本",
+    "geo_score": 70.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.821762,
+     35.684093
+    ]
+   },
+   "properties": {
+    "name": "江東区スポーツ会館",
+    "ward": "江東区",
+    "operator": null,
+    "period": "通年（毎月第2・4月曜日、年末年始）",
+    "hours": "9：30～21：45、夏期（7/19～8/31）は9：00～21：45",
+    "fee": "400円（2時間）",
+    "url": "http://www.koto-hsc.or.jp/sports_center1/",
+    "close_max": "21:45",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都江東区北砂一丁目２番９号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 窓口8:30-22:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8365221,
+     35.7002022
+    ]
+   },
+   "properties": {
+    "name": "亀戸スポーツセンター",
+    "ward": "江東区",
+    "operator": null,
+    "period": "通年（毎月第2・4月曜日、年末年始）",
+    "hours": "9：30～21：45、夏期（7/19～8/31）は9：00～21：45",
+    "fee": "400円（2時間）",
+    "url": "http://www.koto-hsc.or.jp/sports_center3/",
+    "close_max": "21:45",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/355756243",
+    "geo_name": "亀戸スポーツセンター",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7838666,
+     35.6334082
+    ]
+   },
+   "properties": {
+    "name": "有明スポーツセンター",
+    "ward": "江東区",
+    "operator": null,
+    "period": "通年（毎月第2・4月曜日、年末年始）",
+    "hours": "9：30～21：45、夏期（7/19～8/31）は9：00～21：45",
+    "fee": "400円（2時間）",
+    "url": "http://www.koto-hsc.or.jp/sports_center4/",
+    "close_max": "21:45",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/541648365",
+    "geo_name": "有明スポーツセンター",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8397522,
+     35.6791687
+    ]
+   },
+   "properties": {
+    "name": "東砂スポーツセンター",
+    "ward": "江東区",
+    "operator": null,
+    "period": "通年（毎月第2・4月曜日、年末年始）",
+    "hours": "9：30～21：45、夏期（7/19～8/31）は9：00～21：45",
+    "fee": "400円（2時間）",
+    "url": "https://www.koto-hsc.or.jp/sports_center5/",
+    "close_max": "21:45",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "東砂スポーツセンター, 末広通り商店街, 東砂三丁目, 東砂, 江東区, 東京都, 136-0074, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.804825,
+     35.676205
+    ]
+   },
+   "properties": {
+    "name": "深川北スポーツセンター",
+    "ward": "江東区",
+    "operator": null,
+    "period": "通年（毎月第2・4月曜日、年末年始）",
+    "hours": "9：30～21：45、夏期（7/19～8/31）は9：00～21：45",
+    "fee": "400円（2時間）",
+    "url": "http://www.koto-hsc.or.jp/sports_center6/",
+    "close_max": "21:45",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都江東区平野三丁目２番２０号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 8:30-22:00、休 第2・4月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.73085,
+     35.775719
+    ]
+   },
+   "properties": {
+    "name": "元気ぷらざ",
+    "ward": "北区",
+    "operator": null,
+    "period": "通年（月2回の月曜日、年末年始）",
+    "hours": "9：00～21：00",
+    "fee": "500円",
+    "url": "http://www.city.kita.tokyo.jp/chiikishinko/bunka/sport/shisetsu/pool/genki/pool.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都北区志茂一丁目２番２２号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:00-21:00（遊泳は20:50まで）〒115-0042 志茂1-2-22"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7307832,
+     35.7586346
+    ]
+   },
+   "properties": {
+    "name": "十条台小学校温水プール",
+    "ward": "北区",
+    "operator": null,
+    "period": "通年（第３月曜日、年末年始）",
+    "hours": "9：00～21：00",
+    "fee": "500円（2時間）",
+    "url": "http://www.city.kita.tokyo.jp/sports/bunka/sport/shisetsu/pool/pool/index.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": true,
+    "session_based": false,
+    "geo_src": "osm:node/5673205195",
+    "geo_name": "十条台小学校 温水プール",
+    "geo_score": 100.0,
+    "name_official": "パノラマプール十条台（2022-04 改称）",
+    "official_note": "公式: 9:00-21:00（学校使用時間を除く）、休 第3月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.738098,
+     35.762859
+    ]
+   },
+   "properties": {
+    "name": "王子プール",
+    "ward": "北区",
+    "operator": null,
+    "period": "2023年5年7月14日〜8月31日",
+    "hours": "9：00～17:50",
+    "fee": "200円（2時間）",
+    "url": "http://www.city.kita.tokyo.jp/sports/bunka/sport/shisetsu/pool/oji.html",
+    "close_max": "17:50",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都北区王子三丁目２４番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 王子三丁目児童遊園内・夏季屋外"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.70752,
+     35.777534
+    ]
+   },
+   "properties": {
+    "name": "桐ヶ丘プール",
+    "ward": "北区",
+    "operator": null,
+    "period": "2023年5年7月14日〜8月31日",
+    "hours": "9：00～17:50",
+    "fee": "200円（2時間）",
+    "url": "http://www.city.kita.tokyo.jp/sports/bunka/sport/shisetsu/pool/kirigaoka.html",
+    "close_max": "17:50",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都北区桐ケ丘一丁目８番",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式(2026-07): 施設老朽化のため開設中止中"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7216557,
+     35.7445279
+    ]
+   },
+   "properties": {
+    "name": "谷端プール",
+    "ward": "北区",
+    "operator": null,
+    "period": "2023年5年7月14日〜8月31日",
+    "hours": "9：00～17:50",
+    "fee": "200円（2時間）",
+    "url": "http://www.city.kita.tokyo.jp/sports/bunka/sport/shisetsu/pool/yabata.html",
+    "close_max": "17:50",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/565053359",
+    "geo_name": "北区立谷端小学校",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.861712,
+     35.7367625
+    ]
+   },
+   "properties": {
+    "name": "総合スポーツセンター温水プール館エイトホール",
+    "ward": "葛飾区",
+    "operator": null,
+    "period": "通年（休館日:毎月第3水曜日(7・8月無休)）",
+    "hours": "9:00～21:00",
+    "fee": "300円（2時間）",
+    "url": "http://spo-katsushika.esforta.jp/info_shisetsu_001_d.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/55340546",
+    "geo_name": "総合スポーツセンター",
+    "geo_score": 79.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.859665,
+     35.781506
+    ]
+   },
+   "properties": {
+    "name": "水元総合スポーツセンター体育館温水プール",
+    "ward": "葛飾区",
+    "operator": null,
+    "period": "通年（休館日:毎月第2水曜日(7・8月無休)）",
+    "hours": "9:00～21:00",
+    "fee": "300円（2時間）",
+    "url": "http://www.spo-katsushika.esforta.jp/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都葛飾区水元一丁目２３番",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8734048,
+     35.7609935
+    ]
+   },
+   "properties": {
+    "name": "金町公園プール",
+    "ward": "葛飾区",
+    "operator": null,
+    "period": "通年",
+    "hours": "9:30～19:00",
+    "fee": "240円（2時間）",
+    "url": "http://www.spo-katsushika.esforta.jp/info_shisetsu_008.html",
+    "close_max": "19:00",
+    "cat": "early",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "金町公園, 柴又, 葛飾区, 東京都, 125-0052, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.741581,
+     35.581832
+    ]
+   },
+   "properties": {
+    "name": "平和島公園プール",
+    "ward": "大田区",
+    "operator": null,
+    "period": "通年（休館日：毎月第1・3月曜日、年末年始、7月1日～7日、9月1日～13日）",
+    "hours": "9:30～20:00",
+    "fee": "360円（2時間）",
+    "url": "http://www.heiwajima-pool.jp/",
+    "close_max": "20:00",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/11436145827",
+    "geo_name": "平和島公園プール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6892725,
+     35.5886292
+    ]
+   },
+   "properties": {
+    "name": "東調布公園プール",
+    "ward": "大田区",
+    "operator": null,
+    "period": "通年（休館日：毎月第1・3火曜日、年末年始）",
+    "hours": "9:30～21:00",
+    "fee": "480円（2時間）",
+    "url": "http://www.east-chofu.jp/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "東調布公園, 南雪谷, 大田区, 東京都, 145-0066, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7368164,
+     35.5500508
+    ]
+   },
+   "properties": {
+    "name": "萩中公園プール",
+    "ward": "大田区",
+    "operator": null,
+    "period": "通年（休館日：毎月第1・3水曜日、年末年始）",
+    "hours": "9:30～21:00",
+    "fee": "480円（2時間）",
+    "url": "http://haginaka.kbm.cc/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/363838345",
+    "geo_name": "萩中プール",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.690079,
+     35.562325
+    ]
+   },
+   "properties": {
+    "name": "谷口区民センター温水プール",
+    "ward": "大田区",
+    "operator": null,
+    "period": "通年（休館日：毎月最終月曜日、年末年始、 2024年1月18日〜2月29日）",
+    "hours": "9:30～21:15",
+    "fee": "440円（2時間）",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/sports/pool/yagichikumin_c_onsui/poolguide_yaguchi.html",
+    "close_max": "21:15",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都大田区矢口二丁目２１番１４号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8488965,
+     35.6966363
+    ]
+   },
+   "properties": {
+    "name": "小松川さくらホール",
+    "ward": "江戸川区",
+    "operator": null,
+    "period": "通年（休館日：2023年12月25・26日、年末年始）",
+    "hours": "9：00～21:00",
+    "fee": "210円（2時間）",
+    "url": "https://www.city.edogawa.tokyo.jp/e033/kuseijoho/gaiyo/shisetsuguide/bunya/bunkachiiki/c_komatsugawasakura/room.html#cmspool",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/11005253617",
+    "geo_name": "小松川さくらホール",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8924223,
+     35.7357151
+    ]
+   },
+   "properties": {
+    "name": "小岩アーバンプラザ",
+    "ward": "江戸川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9：00～21:00",
+    "fee": "210円（2時間）",
+    "url": "https://www.city.edogawa.tokyo.jp/shisetsuguide/bunya/bunkachiiki/c_koiwa_urban/guide.html",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/3174761602",
+    "geo_name": "小岩アーバンプラザ",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.8625237,
+     35.6679082
+    ]
+   },
+   "properties": {
+    "name": "江戸川区スポーツセンター",
+    "ward": "江戸川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始、2024年3月13日）",
+    "hours": "月〜土 9:00〜22:30、日 9:00〜21:30",
+    "fee": "210円（2時間）",
+    "url": "http://www.edogawa-spocen.com/",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/201367999",
+    "geo_name": "江戸川区スポーツセンター",
+    "geo_score": 120.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.876465,
+     35.717583
+    ]
+   },
+   "properties": {
+    "name": "総合体育館",
+    "ward": "江戸川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:00〜22:00",
+    "fee": "210円（2時間）",
+    "url": "http://www.edogawa-sotai.com/",
+    "close_max": "22:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都江戸川区松本一丁目３５番",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642,
+     35.7780559
+    ]
+   },
+   "properties": {
+    "name": "赤塚体育館",
+    "ward": "板橋区",
+    "operator": null,
+    "period": "通年（休館日：毎月第三月曜日、年末年始）",
+    "hours": "平日9：00～23：00、土日祝9：00～21：00",
+    "fee": "470円（2時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-itabashi-akatsuka-taiikukan/",
+    "close_max": "23:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/53794277",
+    "geo_name": "板橋区立赤塚体育館",
+    "geo_score": 86.1,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7156677,
+     35.7537307
+    ]
+   },
+   "properties": {
+    "name": "板橋区立植村記念加賀スポーツセンター",
+    "ward": "板橋区",
+    "operator": null,
+    "period": "通年（休館日：毎月第三月曜日、年末年始）",
+    "hours": "平日9：00～23：00、土日祝9：00～21：00",
+    "fee": "470円（2時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-itabashi-higashiitabashi-taiikukan/",
+    "close_max": "23:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/28575951",
+    "geo_name": "植村記念加賀スポーツセンター",
+    "geo_score": 85.6,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6757503,
+     35.7571803
+    ]
+   },
+   "properties": {
+    "name": "上板橋体育館",
+    "ward": "板橋区",
+    "operator": null,
+    "period": "通年（休館日：毎月第二月曜日、年末年始）",
+    "hours": "平日9：00～23：00、土日祝9：00～21：00",
+    "fee": "470円（2時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-itabashi-kamiitabashi-taiikukan/",
+    "close_max": "23:00",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/105737431",
+    "geo_name": "上板橋体育館",
+    "geo_score": 105.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.668159,
+     35.790444
+    ]
+   },
+   "properties": {
+    "name": "板橋区立高島平温水プール",
+    "ward": "板橋区",
+    "operator": null,
+    "period": "通年（休館日：毎月第二月曜日、年末年始）",
+    "hours": "平日10：00～22：20、土日祝 10：00～20：20",
+    "fee": "470円（2時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-itabashi-takashimadaira-pool/",
+    "close_max": "22:20",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/1655914643",
+    "geo_name": "板橋区立高島平福祉園",
+    "geo_score": 104.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6983327,
+     35.7784139
+    ]
+   },
+   "properties": {
+    "name": "小豆沢体育館",
+    "ward": "板橋区",
+    "operator": null,
+    "period": "通年（休館日：毎月第二月曜日、年末年始）",
+    "hours": "平日10：00～22：20、土日祝 10：00～20：30",
+    "fee": "470円（2時間）",
+    "url": "https://www.shisetsu-tds.jp/tokyo-itabashi-azusawa-taiikukan/",
+    "close_max": "22:20",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/6190492867",
+    "geo_name": "小豆沢体育館",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7917025,
+     35.7358429
+    ]
+   },
+   "properties": {
+    "name": "荒川総合スポーツセンター",
+    "ward": "荒川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "8:00〜22:30",
+    "fee": "600円（2時間）",
+    "url": "https://www.arakawa-sposen.com/personal/",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:way/235943467",
+    "geo_name": "荒川総合スポーツセンター",
+    "geo_score": 105.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7570554,
+     35.7518766
+    ]
+   },
+   "properties": {
+    "name": "あらかわ遊園スポーツハウス",
+    "ward": "荒川区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:00〜21:30",
+    "fee": "500円（2時間）",
+    "url": "https://www.city.arakawa.tokyo.jp/shisetsu/sports/arakawayuensports.html",
+    "close_max": "21:30",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "nominatim",
+    "geo_name": "あらかわ遊園スポーツハウス, 荒川遊園通り, 西尾久六丁目, 西尾久, 荒川区, 東京都, 116-0011, 日本",
+    "geo_score": 100.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7972297,
+     35.8034574
+    ]
+   },
+   "properties": {
+    "name": "スイムスポーツセンター",
+    "ward": "足立区",
+    "operator": null,
+    "period": "通年（休館日：年末年始）",
+    "hours": "9:30〜20:30",
+    "fee": "550円",
+    "url": "https://tme-adachi.com/suimu/facility/facility01-2",
+    "close_max": "20:30",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "osm:node/6508857103",
+    "geo_name": "足立区スイムスポーツセンター",
+    "geo_score": 90.7,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.831177,
+     35.769367
+    ]
+   },
+   "properties": {
+    "name": "東綾瀬温水プール",
+    "ward": "足立区",
+    "operator": null,
+    "period": "通年（休館日：毎月第三月曜日、年末年始）",
+    "hours": "9:00〜20:00",
+    "fee": "500円（2時間）",
+    "url": "http://www.city.adachi.tokyo.jp/sports/shisetsu/higashiayase.html",
+    "close_max": "20:00",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都足立区東綾瀬三丁目４番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 9:30-20:30（受付〜20:00）、休 第2月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.801468,
+     35.751411
+    ]
+   },
+   "properties": {
+    "name": "千住温水プール",
+    "ward": "足立区",
+    "operator": null,
+    "period": "通年（休館日：毎月第三月曜日、年末年始）",
+    "hours": "9:00〜20:00",
+    "fee": "550円（2時間）",
+    "url": "http://www.city.adachi.tokyo.jp/sports/shisetsu/senon.html",
+    "close_max": "20:00",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都足立区千住三丁目３０番地",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": "公式: 遊泳9:30-20:30（最終入場20:00）、休 第3月曜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.81189,
+     35.652054
+    ]
+   },
+   "properties": {
+    "name": "東京アクアティクスセンター",
+    "ward": "江東区",
+    "operator": "都営",
+    "period": "通年",
+    "hours": "開館9:00-21:00（夏休み期間8:00-21:00）。一般開放はレーン枠制で月1ヶ月前に予定表公開",
+    "fee": "一般700円/2時間30分、中学生以下300円",
+    "url": "https://www.tef.or.jp/tac/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都江東区辰巳二丁目２番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.818619,
+     35.647079
+    ]
+   },
+   "properties": {
+    "name": "東京辰巳国際水泳場",
+    "ward": "江東区",
+    "operator": "都営",
+    "period": "通年",
+    "hours": "平日・土 9:00-22:30（最終入場21:00・退水22:00）/ 日祝 9:00-21:30（入場20:00・退水21:00）。休 第3月曜",
+    "fee": "公式ページ参照",
+    "url": "https://www.tef.or.jp/tatsumi/",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都江東区辰巳二丁目８番１０号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.710892,
+     35.679253
+    ]
+   },
+   "properties": {
+    "name": "東京体育館プール",
+    "ward": "渋谷区",
+    "operator": "都営",
+    "period": "通年",
+    "hours": "9:00-21:00（奇数時刻始点の2時間単位、一般開放枠は日別予定表）",
+    "fee": "公式ページ参照",
+    "url": "https://www.tef.or.jp/tmg/pool/",
+    "close_max": "21:00",
+    "cat": "till2100",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都渋谷区千駄ケ谷一丁目",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.728302,
+     35.753452
+    ]
+   },
+   "properties": {
+    "name": "東京都障害者総合スポーツセンタープール",
+    "ward": "北区",
+    "operator": "都営",
+    "period": "通年",
+    "hours": "プール9:00-20:20。休 毎週水曜・祝日の翌日・年末年始",
+    "fee": "公式ページ参照",
+    "url": "https://tsad-portal.com/mscd",
+    "close_max": "20:20",
+    "cat": "till2000",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都北区十条台一丁目２番２号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.750427,
+     35.654488
+    ]
+   },
+   "properties": {
+    "name": "アクアフィールド芝公園（芝公園プール）",
+    "ward": "港区",
+    "operator": "都立公園",
+    "period": "夏季のみ（7/1-9/15頃）",
+    "hours": "9:00-20:00（9月は〜17:00）",
+    "fee": "大人600円/2時間、小中高100円",
+    "url": "https://www.tokyo-park.or.jp/park/shiba/",
+    "close_max": "20:00",
+    "cat": "seasonal",
+    "seasonal": true,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都港区芝公園二丁目７番",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.709518,
+     35.76709
+    ]
+   },
+   "properties": {
+    "name": "味の素ナショナルトレーニングセンター屋内プール",
+    "ward": "北区",
+    "operator": "国営",
+    "period": "通年",
+    "hours": "一般利用不可（強化選手・中央競技団体専用）。隣接の国立スポーツ科学センターも同様",
+    "fee": "—",
+    "url": "https://www.jpnsport.go.jp/hpsc/facility/ntc/",
+    "close_max": null,
+    "cat": "unknown",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都北区西が丘三丁目１５番１号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.751663,
+     35.646198
+    ]
+   },
+   "properties": {
+    "name": "港区スポーツセンター",
+    "ward": "港区",
+    "operator": "区営（記事未収録）",
+    "period": "通年",
+    "hours": "8:30-22:30（最終入場21:30・最終利用22:00）。休 第1月曜・年末年始",
+    "fee": "公式ページ参照",
+    "url": "https://minatoku-sports.com/",
+    "close_max": "22:30",
+    "cat": "late22",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都港区芝浦一丁目１６番地",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.668823,
+     35.68808
+    ]
+   },
+   "properties": {
+    "name": "南部スポーツ・コミュニティプラザ",
+    "ward": "中野区",
+    "operator": "区営（記事未収録）",
+    "period": "通年",
+    "hours": "温水プール10:00-21:50",
+    "fee": "公式ページ参照",
+    "url": "https://www.nakano-sports-comm.net/southern/",
+    "close_max": "21:50",
+    "cat": "till2130",
+    "seasonal": false,
+    "school_pool": false,
+    "session_based": false,
+    "geo_src": "gsi-addr",
+    "geo_name": "東京都中野区弥生町五丁目１１番２６号",
+    "geo_score": 80.0,
+    "name_official": null,
+    "official_note": null
+   }
+  }
+ ]
+}
